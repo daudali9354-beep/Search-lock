@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Search Lock</string>
+    <string name="accessibility_description">Checks Chrome's visible text locally for phrases you choose and shows your reminder notification. No search text is uploaded.</string>
+</resources>
